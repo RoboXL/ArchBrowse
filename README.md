@@ -1,2 +1,2 @@
-# ArchBrowse(YayOnly)
- Lets you install any browser Needs yay to be installed
+# ArchBrowse
+ Lets you install Firefox, Chrome, Brave, Chromium and Edge easily on Arch. Needs Yay for some of them :(
